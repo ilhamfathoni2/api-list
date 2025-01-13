@@ -1,0 +1,144 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Adhi Buchori",
+      "email": "adhi@example.com",
+      "age": 10,
+      "address": "Jakarta, Indonesia"
+    },
+    {
+      "id": 2,
+      "name": "Ayu Lestari",
+      "email": "ayulestari@example.com",
+      "age": 28,
+      "address": "Jakarta, Indonesia"
+    },
+    {
+      "id": 3,
+      "name": "Budi Santoso",
+      "email": "budisantoso@example.com",
+      "age": 30,
+      "address": "Bandung, Indonesia"
+    },
+    {
+      "id": 4,
+      "name": "Citra Permata",
+      "email": "citrapermata@example.com",
+      "age": 27,
+      "address": "Denpasar, Indonesia"
+    },
+    {
+      "id": 5,
+      "name": "Dewi Kartika",
+      "email": "dewikartika@example.com",
+      "age": 23,
+      "address": "Yogyakarta, Indonesia"
+    },
+    {
+      "id": 6,
+      "name": "Eko Saputra",
+      "email": "ekosaputra@example.com",
+      "age": 32,
+      "address": "Malang, Indonesia"
+    },
+    {
+      "id": 7,
+      "name": "Fahmi Wijaya",
+      "email": "fahmiwijaya@example.com",
+      "age": 29,
+      "address": "Semarang, Indonesia"
+    },
+    {
+      "id": 8,
+      "name": "Gita Andini",
+      "email": "gitaandini@example.com",
+      "age": 26,
+      "address": "Medan, Indonesia"
+    },
+    {
+      "id": 9,
+      "name": "Hendra Kurniawan",
+      "email": "hendrakurniawan@example.com",
+      "age": 34,
+      "address": "Palembang, Indonesia"
+    },
+    {
+      "id": 10,
+      "name": "Intan Sari",
+      "email": "intansari@example.com",
+      "age": 24,
+      "address": "Makassar, Indonesia"
+    },
+    {
+      "id": 11,
+      "name": "Joko Prabowo",
+      "email": "jokoprabowo@example.com",
+      "age": 35,
+      "address": "Solo, Indonesia"
+    },
+    {
+      "id": 12,
+      "name": "Kirana Utami",
+      "email": "kiranautami@example.com",
+      "age": 22,
+      "address": "Tangerang, Indonesia"
+    },
+    {
+      "id": 13,
+      "name": "Lukman Hakim",
+      "email": "lukmanhakim@example.com",
+      "age": 31,
+      "address": "Balikpapan, Indonesia"
+    },
+    {
+      "id": 14,
+      "name": "Mega Safitri",
+      "email": "megasafitri@example.com",
+      "age": 28,
+      "address": "Pekanbaru, Indonesia"
+    },
+    {
+      "id": 15,
+      "name": "Nanda Pratama",
+      "email": "nandapratama@example.com",
+      "age": 26,
+      "address": "Bogor, Indonesia"
+    },
+    {
+      "id": 16,
+      "name": "Oki Suryanto",
+      "email": "okisuryanto@example.com",
+      "age": 33,
+      "address": "Padang, Indonesia"
+    },
+    {
+      "id": 17,
+      "name": "Putri Amelia",
+      "email": "putriamelia@example.com",
+      "age": 24,
+      "address": "Banda Aceh, Indonesia"
+    },
+    {
+      "id": 18,
+      "name": "Raka Permadi",
+      "email": "rakapermadi@example.com",
+      "age": 27,
+      "address": "Samarinda, Indonesia"
+    },
+    {
+      "id": 19,
+      "name": "Siti Khadijah",
+      "email": "sitikhadijah@example.com",
+      "age": 29,
+      "address": "Cirebon, Indonesia"
+    },
+    {
+      "id": 20,
+      "name": "Taufik Hidayat",
+      "email": "taufikhidayat@example.com",
+      "age": 32,
+      "address": "Batam, Indonesia"
+    }
+  ]
+}
